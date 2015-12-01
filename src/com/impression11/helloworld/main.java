@@ -60,5 +60,10 @@ public class main {
         System.out.println("You scored " + scoreKeeper + " out of 3");
 
 
+        //lorem ipsum comments
+        //lorem ipsum comments
+        //lorem ipsum comments
+
+
     }
 }
